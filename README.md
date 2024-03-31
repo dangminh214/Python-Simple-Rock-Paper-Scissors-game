@@ -30,3 +30,6 @@ So what's going on? Can you debug the code and fix it?
 
 # Solution to the debugging challenge
 [https://repl.it/@appbrewery/rock-paper-scissors-debugged-end](https://repl.it/@appbrewery/rock-paper-scissors-debugged-end)
+
+![image](https://github.com/dangminh214/Python-Simple-Rock-Paper-Scissors-game/assets/51837721/aa6b96b6-b6e5-43c8-89e8-46b70ab1b696)
+
